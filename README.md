@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with Node.js 
+- 🔭 I’m currently working with React.js
+- 🌱 I’m currently practicing Redux and Firebase. 
+- 👯 I’m looking to collaborate on new Javascript projects
+- 🤞 I wish to learn better Node.js
