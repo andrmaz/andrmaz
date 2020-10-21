@@ -1,4 +1,4 @@
-![](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTfbtfG5DYfi0GejzjuV7SpedxVQcaZanJkA&usqp=CAU)
 
 ### Hi there 👋
 Hello! Welcome to my GitHub page.
