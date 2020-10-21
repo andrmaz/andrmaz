@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(https://miro.medium.com/max/875/1*Y5S3wOm52_4iYusUagbEtw.jpeg)
+![](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 
 Hello! Welcome to my GitHub page.
 
