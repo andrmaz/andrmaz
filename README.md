@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
+![](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
 
 Hello! Welcome to my GitHub page.
 
