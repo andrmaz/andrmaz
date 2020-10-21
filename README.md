@@ -1,7 +1,6 @@
-### Hi there 👋
-
 ![](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
 
+### Hi there 👋
 Hello! Welcome to my GitHub page.
 
 
