@@ -10,7 +10,7 @@ Hello! Welcome to my GitHub page.
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrmaz&theme=dark" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=andrmaz&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrmaz&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=andrmaz&theme=dracula" />
 
 
