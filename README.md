@@ -8,6 +8,8 @@ Hello! Welcome to my GitHub page.
 - 📫 How to reach me: 📧📱💻
 - 👯 I’m looking to collaborate on open source projects 🤗
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrmaz&show_icons=true&theme=cobalt)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrmaz&show_icons=true&theme=dracula)
 
 
