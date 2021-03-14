@@ -7,6 +7,7 @@ Hello! Welcome to my GitHub page.
 - 🤓 I'm currently learnig React Hooks 🤿
 - 📫 How to reach me: 📧📱💻
 - 👯 I’m looking to collaborate on open source projects 🤗
+- 📚 I would love to learn more about GraphQL 😍
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
