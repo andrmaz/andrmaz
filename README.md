@@ -2,9 +2,9 @@
 Hello! Welcome to my GitHub page.
 
 
-- 🔭 I’m currently working with React.js 🤩
-- 🌱 I’m currently practicing using Redux 💪
-- 🤓 I'm currently learnig TypeScript 🚀
+- 🔭 I’m currently working with Next.js 🚀
+- 🌱 I’m currently practicing using TypeScript 💪
+- 🤓 I'm currently learnig React Hooks 🤿
 - 📫 How to reach me: 📧📱💻
 - 👯 I’m looking to collaborate on open source projects 🤗
 
