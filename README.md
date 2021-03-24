@@ -5,7 +5,7 @@ Hello! Welcome to my GitHub page.
 - 🔭 I’m currently working with Next.js 🚀
 - 🌱 I’m currently practicing using TypeScript 💪
 - 🤓 I'm currently learnig React Hooks 🤿
-- 📫 How to reach me: 📧📱💻
+- 📫 How to reach me: mazbsorz@gmail.com 📧
 - 👯 I’m looking to collaborate on open source projects 🤗
 - 📚 I would love to learn more about GraphQL 😍
 
