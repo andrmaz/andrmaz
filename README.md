@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/source.gif" width="40" height="40" />
+
 Hello! Welcome to my GitHub page.
 
 
