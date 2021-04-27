@@ -8,7 +8,7 @@ Hello! Welcome to my GitHub page.
 - 🤓 I'm currently learnig React Patterns 🤯
 - 👯 I’m looking to collaborate on open source projects 🤗
 - 📚 I would love to learn more about GraphQL 😍
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrea-m-0b40051bb/">![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-m-0b40051bb%2F)</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrea-m-0b40051bb/" target="_blank">![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-m-0b40051bb%2F)</a>
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
