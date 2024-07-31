@@ -4,8 +4,8 @@ Hello! Welcome to my GitHub page.
 
 
 - 🔭 I’m currently working with TypeScript 🚀
-- 🌱 I’m currently practicing using Java 💪
-- 🤓 I'm currently learning E2E DBMS 📊
+- 🌱 I’m currently practicing using Angular 💪
+- 🤓 I'm currently learning React Native 📊
 - 👯 I’m looking to collaborate on open source projects 🤗
 - 📚 I would love to learn more about React Native 😍
 - 📫 How to reach me:   <a href="https://www.linkedin.com/in/andrea-m-0b40051bb/">![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-m-0b40051bb%2F)</a>   <a href="https://discord.com/channels/@me">![Discord URL](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.com)</a>
