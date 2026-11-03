@@ -4,9 +4,7 @@
 
 <h3>TypeScript developer building AI tooling and product apps</h3>
 
-<p>OSS addict 🏝 · Fintech enthusiast 🎧</p>
-
-<a href="https://www.linkedin.com/in/andrea-m-0b40051bb/">![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-m-0b40051bb%2F)</a>&nbsp;&nbsp;<a href="https://discord.com/channels/@me">![Discord URL](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.com)</a>
+<a href="https://www.linkedin.com/in/andrea-m-0b40051bb/">![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-m-0b40051bb%2F)</a>&nbsp;&nbsp;<a href="https://discord.dog/707645249434026034">![Discord URL](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.com)</a>
 
 </div>
 
